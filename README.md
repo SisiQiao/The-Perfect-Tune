@@ -1,8 +1,7 @@
 # The-perfect-tune
 
 Description  
-What makes some songs become popular? The dataset describes about 20,000 popular songs based on auditory features such as loudness and tempo.  
-The goal is to construct a model using a dataset of popular songs to predict rating based on auditory features of the songs included in scoringData.csv.     
+What makes some songs become popular? The dataset describes about 20,000 popular songs based on auditory features such as loudness and tempo. The goal is to construct a model using a dataset of popular songs to predict rating based on auditory features of the songs included in scoringData.csv.     
 
 Here is a description of Variables included in the dataset：  
   
