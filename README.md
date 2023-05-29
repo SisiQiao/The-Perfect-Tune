@@ -5,7 +5,7 @@ What makes some songs become popular? The dataset describes about 20,000 popular
 Goal  
 Construct a model using a dataset of popular songs to predict rating based on auditory features of the songs included in scoringData.csv.     
 
-Here is a description of Variables included in the dataset： 
+Here is a description of Variables included in the dataset：  
 1.id: Song id  
 2.performer: Performer name  
 3.song: Song name  
